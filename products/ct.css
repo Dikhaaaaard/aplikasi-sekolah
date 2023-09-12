@@ -1,0 +1,19 @@
+/* <!-- 
+1. koneksi -> include
+            
+2. membuat query -> se;ect update, delete, insert
+    mysqli_query($conn, $query)
+
+3. fetch_ array,assoc,row,object
+-->
+ */
+
+input{
+    text-align: center;
+ font-family: Arial, Helvetica, sans-serif;   
+ text-decoration: none
+ ;
+}
+
+
+a:hover
